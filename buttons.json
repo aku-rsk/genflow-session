@@ -2,5 +2,6 @@
   {"id": "btn1", "label": "S1"},
   {"id": "btn2", "label": "S2"},
   {"id": "btn3", "label": "S3"},
-  {"id": "btn4", "label": "S4"}
+  {"id": "btn4", "label": "S4"},
+  {"id": "btn4", "label": "S5"}
 ]
