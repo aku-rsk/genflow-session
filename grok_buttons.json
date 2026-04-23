@@ -1,1 +1,5 @@
-
+[
+  {"id": "btn1", "label": "S1"},
+  {"id": "btn2", "label": "S2"},
+  {"id": "btn3", "label": "S3"}
+]
