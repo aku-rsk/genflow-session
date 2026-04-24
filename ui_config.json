@@ -1,5 +1,6 @@
 {
-  "show_veo_lite": false,
   "show_veo_fast": false,
-  "show_ultra_button": false
+  "show_veo_lite": false,
+  "show_ultra_button": false,
+  "maintenance_mode": false
 }
