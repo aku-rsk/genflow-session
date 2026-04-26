@@ -1,6 +1,9 @@
 {
-  "show_veo_fast": false,
-  "show_veo_lite": false,
   "show_ultra_button": false,
-  "maintenance_mode": false
+  "maintenance_mode": false,
+  "hide_exact": ["pro", "x3", "x4"],
+  "hide_includes": ["1080", "4k", "try gemini canvas"],
+  "safe_includes": ["full video", "clip", "240", "720"],
+  "model_keywords": ["veo", "lite", "fast"],
+  "priority_keywords": ["priority", "lower"]
 }
