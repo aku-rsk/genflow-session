@@ -1,5 +1,5 @@
 [
-  { "id": "btn1", "label": "1" },
-  { "id": "btn2", "label": "2" },
-  { "id": "btn3", "label": "M1" }
+  { "id": "btn1", "label": "F1" },
+  { "id": "btn2", "label": "F2" },
+  { "id": "btn3", "label": "F3" }
 ]
