@@ -4,6 +4,6 @@
   "hide_exact": ["pro", "x3", "x4"],
   "hide_includes": ["1080", "4k", "try gemini canvas"],
   "safe_includes": ["full video", "clip", "240", "720"],
-  "model_keywords": ["veo", "fast", "lite", "omni"],
+  "model_keywords": ["veo", "fast", "lite"],
   "priority_keywords": ["priority", "lower"]
 }
